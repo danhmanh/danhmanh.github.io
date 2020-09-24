@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '4.0.0'
+gem "jekyll", github: "jekyll/jekyll"
 gem 'jemoji'
 group :jekyll_plugins do
   gem 'jekyll-paginate'
