@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
 
 gem "jekyll", github: "jekyll/jekyll"
-gem 'jemoji'
-gem 'pry'
+gem 'jekyll-toc'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
-  gem 'octopress-debugger'
+  gem 'jekyll-admin'
 end

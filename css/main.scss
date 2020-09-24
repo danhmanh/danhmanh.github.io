@@ -228,9 +228,13 @@ code {
         }
     }
     img {
+        // margin: 10px 10px 10px 10px;
         text-align: center;
-        margin: 10px 10px 10px 10px;
         max-width: $max-width;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        // width: 50%;
     }
 
     .color-red {

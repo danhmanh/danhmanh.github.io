@@ -1,8 +1,9 @@
 ---
-layout: post
 title: OpenGraph với Rails
+layout: post
 subtitle: Share link nhưng kèm thêm ảnh, tại sao không?
 tags: [rails, ruby, markdown]
+toc: true
 ---
 
 # 1. Giới thiệu
@@ -130,7 +131,7 @@ Thử share phát lên Facebook xem nó có chuẩn chỉ không nào:
 Ngon :heart_eyes: Vậy là ứng dụng của mình đã có link preview đẹp đẽ rồi.
 
 # 4. Kết luận
-Ngoài Facebook ra, các social network như Twitter, Skype, Pinterest, .. cũng đã và đang hỗ trợ OpenGraph trong việc preview link. Việc sử dụng OpenGraph giúp cho đuờng link sản phẩm của bạn nổi bật hơn, thu hút được nhiều lượt click và lượt xem hơn, tăng lưu lượng truy cập và uy tín thương hiệu cho website của bạn.
+Ngoài Facebook ra, các social network như Twitter, Skype, Pinterest,... cũng đã và đang hỗ trợ OpenGraph trong việc preview link. Việc sử dụng OpenGraph giúp cho đuờng link sản phẩm của bạn nổi bật hơn, thu hút được nhiều lượt click và lượt xem hơn, tăng lưu lượng truy cập và uy tín thương hiệu cho website của bạn.
 
 | Skype | Twitter |
 | -------- | -------- |
@@ -141,8 +142,8 @@ Cảm ơn mọi người đã đọc bài :blush:
 
 
 # 5. Tham khảo
-[OpenGraphProtocol](http://ogp.me/)
+- [OpenGraphProtocol](http://ogp.me/)
 
-https://iamturns.com/open-graph-image-size/
+- [https://iamturns.com/open-graph-image-size/](https://iamturns.com/open-graph-image-size/)
 
-https://neilpatel.com/blog/open-graph-meta-tags/
+- [Neil Patel's Blog](https://neilpatel.com/blog/open-graph-meta-tags/)

@@ -3,6 +3,7 @@ layout: post
 title: Xử lí Array trong Ruby
 subtitle: Các cách chặt, chém, chắp, vá mảng trong Ruby
 tags: [ruby, markdown]
+toc: true
 ---
 
 ![](https://images.viblo.asia/7b62e37c-9248-4f75-b8c2-5a9fd7588541.png)
