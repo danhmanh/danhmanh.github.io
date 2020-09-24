@@ -2,7 +2,7 @@
 title: OpenGraph với Rails
 layout: post
 subtitle: Share link nhưng kèm thêm ảnh, tại sao không?
-tags: [rails, ruby, markdown]
+tags: [ruby, markdown]
 toc: true
 ---
 

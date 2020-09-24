@@ -8,7 +8,7 @@ baseurl: ''
 footer_only_homepage: true
 footer_text: "Made by rain with love 🥰"
 
-# profile-picture: assets/profile.png
+profile-picture: assets/profile.jpg
 # profile-picture: assets/p1.jpg
 favicon_location: assets/favicon.ico
 
