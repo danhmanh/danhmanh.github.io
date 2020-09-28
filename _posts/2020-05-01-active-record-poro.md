@@ -34,7 +34,7 @@ Using /home/manhnd/.rvm/gems/ruby-2.6.3 with gemset chokers_app
 ### 2. Tạo thư mục gốc cho project. Mình sẽ đặt tên là `chokers_app`
 ```shell
 ➜  ~ mkdir chokers_app
-➜  ~ cd chokers_app              
+➜  ~ cd chokers_app
 ➜  chokers_app 
 ```
 
@@ -210,5 +210,5 @@ Number of chokers in your database: 1
 Project ở trên là một ví dụ nho nhỏ giới thiệu cho bạn cách kết hợp ActiveRecord vào trong ứng dụng Ruby của bạn. Sự trợ giúp của gem `standalone_migrations` rất có giá trị, giúp chúng ta sử dụng ActiveRecord Migrations API như cách chúng ta làm ở Rails thông thường, Cảm ơn mọi người đã đọc bài viết của mình. Nếu có thắc mắc, trao đổi hãy để lại bình luận ở phía dưới nhé.
 
 # Tham khảo
-https://www.rubydoc.info/gems/activerecord/5.0.0.1
-https://github.com/thuss/standalone-migrations
+[https://www.rubydoc.info/gems/activerecord/5.0.0.1](https://www.rubydoc.info/gems/activerecord/5.0.0.1)
+[https://github.com/thuss/standalone-migrations](https://github.com/thuss/standalone-migrations)

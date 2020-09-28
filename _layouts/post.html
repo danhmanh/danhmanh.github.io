@@ -16,7 +16,10 @@ layout: default
     {% endfor %}
 </div>
 
+<div><h1>{{ post.url }}</h1></div>
+
 {{content | toc}}
 
 {% include share-buttons.html %}
-<div class="fb-comments" data-href="https://raindoing.tech" data-numposts="5" data-width=""></div>
+{% include like-button.html %}
+{% include comment-fb-plugin.html %}
